@@ -2,5 +2,5 @@
     "appSecret": "3e23f133b9ab52f84396c6b089a83a9a",
     "pageAccessToken": "EAAU4qBK0ylMBALmWn3wKKjWIKAbQmGPPBnYPi6SmZChx3acIZBYelZA4dRTjuYOy8WbtjTstK5GvCCgsLD3DWWEr6ZB9k8RdYB86rhBa19RTjogGIaphn8znZBGZCJH2JF6rYn5ZAQemBbXwZCOUzlL39Bb3ZCp2rk4tAk6ZBfwZBJQnwZDZD",
     "validationToken": "613",
-    "serverURL": ""
+    "serverURL": "https://serene-thicket-52302.herokuapp.com/"
 }
